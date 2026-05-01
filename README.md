@@ -12,4 +12,4 @@ A Machine Learning project that classifies tweets into Positive, Negative, and N
 74,683 real tweets from Twitter with sentiment labels.
 
 ## Live Demo
-[Click here to try the live app](YOUR_STREAMLIT_LINK)
+[Click here to try the live app](https://sentimentanalysis-2fv8x5mx2pstpnx99egduc.streamlit.app/)
