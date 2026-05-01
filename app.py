@@ -9,7 +9,7 @@ with open("vectorizer.pkl", "rb") as f:
     vectorizer = pickle.load(f)
 
 # UI
-st.title("Twitter Sentiment Analysis 🚀")
+st.title("Sentiment Analysis")
 
 tweet = st.text_input("Enter a tweet:")
 
